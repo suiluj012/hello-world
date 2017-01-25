@@ -1,2 +1,5 @@
 # hello-world
-repository tutorial
+
+I am Julius.
+
+And I want to be financially secured.
